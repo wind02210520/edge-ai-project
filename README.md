@@ -11,5 +11,3 @@
 | 系统 | Ubuntu 22.04 (WSL2) |
 | GPU | RTX 4060 Laptop 8GB |
 
-## 训练
-（Day 3 补）
