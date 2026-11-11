@@ -11,3 +11,5 @@
 | 系统 | Ubuntu 22.04 (WSL2) |
 | GPU | RTX 4060 Laptop 8GB |
 
+## CIFAR-10 training script and result
+![alt text](reports/loss_curve.png)
